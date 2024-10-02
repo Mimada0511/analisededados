@@ -1,4 +1,5 @@
 body {
     background-color: var(--bg-color);
     color: rgb(190, 236, 221);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
